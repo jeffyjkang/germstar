@@ -1,0 +1,15 @@
+#E7717D // PINK
+#C2CAD0 // GRAY
+#C2B9B0 // LIGHT CHARCOAL
+#7E685A // BROWN
+#AFD275 // LIME
+
+
+gradient //
+
+#FBB68D
+#FBAA8B
+#B45C80
+
+
+https://visme.co/blog/website-color-schemes/
